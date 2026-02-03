@@ -97,14 +97,6 @@ gcc main.c -o student_management
 
 ---
 
-## Screenshots
-Add screenshots of:
-- Main menu
-- Add student
-- Display students
-
----
-
 ## Social Links
 - LinkedIn: https://www.linkedin.com/in/asser-elhosary
 - GitHub: https://github.com/asser-elhosary
